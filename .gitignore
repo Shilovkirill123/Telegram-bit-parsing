@@ -1,0 +1,8 @@
+env/
+__pycache__/
+.vscode/
+bot.log
+.DS_Store
+settings.py
+alembic.ini
+migration/
